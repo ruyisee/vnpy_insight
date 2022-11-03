@@ -15,8 +15,9 @@ def read(name):
 
 setup(
     name='vnpy_insight',
-    version='0.1.0',
+    version='0.1.1',
     description='用于vnpy获取历史数据的华泰insight接口',
+    long_description=read('README.md'),
     author='kangyuqiang',
     author_email='kangyuqiang123@gmail.com',
     packages=find_packages(),

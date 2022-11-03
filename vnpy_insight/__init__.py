@@ -4,3 +4,4 @@
 @Time      :2022/11/2 13:49
 @Author    :fsksf
 """
+from .insight_datafeed import InsightDatafeed as Datafeed
