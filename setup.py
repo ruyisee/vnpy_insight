@@ -21,6 +21,11 @@ setup(
     author_email='kangyuqiang123@gmail.com',
     packages=find_packages(),
     keywords=['vnpy', 'insight', '华泰', 'huatai'],
-    install_requires=read('requirements.txt')
+    install_requires=read('requirements.txt'),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: Apache Software License",
+        "Operating System :: OS Independent",
+    ]
 )
 

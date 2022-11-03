@@ -53,7 +53,6 @@ class InsightCallbackService(market_service):
             interval=self.req.interval,
             symbol=self.req.symbol,
         )
-        print(bar)
         self.data_list.append(bar)
 
 

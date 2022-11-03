@@ -7,7 +7,7 @@
 ```angular2html
 pip install .
 ```
-## pip源安装: 未上传
+## pip源安装
 ```angular2html
 pip install vnpy_insight
 ```
