@@ -1,0 +1,1 @@
+insight_sdk==4.0.7
